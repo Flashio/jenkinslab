@@ -5,8 +5,5 @@ public class Hello {
 
         System.out.println("Author: Mohamed");
         System.out.println("Jenkins Project - Explaining Git Project Compilation");
-
     }
-
-
 }
