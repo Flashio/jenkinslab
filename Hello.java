@@ -1,9 +1,8 @@
-public class Hello {
+public class Hello
+    {
+            public static void main(String[] args){
 
-
-    public static void main( String[] args) {
-
-        System.out.println("Author: Mohamed");
-        System.out.println("Jenkins Project - Explaining Git Project Compilation");
-    }
-}
+                System.out.println("Author : Mohammed");
+                System.out.println("This is Jenkins Git Repo Build Demonstration");
+            }
+    }
